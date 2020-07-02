@@ -8,7 +8,7 @@ Distraction-free way to listen to long Youtube albums, mixes, compilations and w
 
 Wall of latest metal releases.
 
-[Coronavirus Timeline](https://coronavirus.orchardroad.space/)
+[Coronavirus Timeline](https://coronavirus.projects.oleg.kim/)
 
 Progress of coronavirus pandemic as it spreads throughout the world.
 
