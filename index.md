@@ -15,3 +15,7 @@ Progress of coronavirus pandemic as it spreads throughout the world.
 [Calendar](https://calendar.orchardroad.space/)
 
 Simple calendar app to track day events.
+
+[Instagram Discovery](https://instagram.projects.oleg.kim/)
+
+Discovery Instagram users through suggestions.
