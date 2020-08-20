@@ -18,4 +18,4 @@ Simple calendar app to track day events.
 
 [Instagram Discovery](https://instagram.projects.oleg.kim/)
 
-Discovery Instagram users through suggestions.
+Browse Instagram users through suggestions.
