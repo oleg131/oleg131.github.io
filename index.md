@@ -19,3 +19,11 @@ Simple calendar app to track day events.
 [Instagram Discovery](https://instagram.projects.oleg.kim/)
 
 Browse Instagram users through suggestions.
+
+[Furthest](https://furthest.projects.oleg.kim/)
+
+See map of travel times from a given point to the rest of the globe.
+
+[RandomEpisode](https://randomepisode.projects.oleg.kim/)
+
+Get a random episode from a personalized list of favorite TV shows.
