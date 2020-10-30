@@ -22,7 +22,7 @@ Browse Instagram users through suggestions.
 
 [Furthest](https://furthest.projects.oleg.kim/)
 
-See map of travel times from a given point to the rest of the globe.
+See map of travel times from a given point to the rest of the planet.
 
 [RandomEpisode](https://randomepisode.projects.oleg.kim/)
 
