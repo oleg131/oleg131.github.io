@@ -27,3 +27,8 @@ See map of travel times from a given point to the rest of the planet.
 [RandomEpisode](https://randomepisode.projects.oleg.kim/)
 
 Get a random episode from a personalized list of favorite TV shows.
+
+
+[Recipr](https://recipe-parser-web.vercel.app/)
+
+Extract recipe information from any website.
