@@ -14,4 +14,5 @@ Get a random episode from a personalized list of favorite TV shows.
 
 [Ishkur's Guide remake](https://oleg131.github.io/ishkur-web)
 
-Ported version of the original Ishkur's Guide to Electronic Music v2.5 designed to work without Flash and be mobile-friendly. [[Github]](https://github.com/oleg131/ishkur-web)
+Ported version of the original Ishkur's Guide to Electronic Music v2.5 designed to work without Flash and be mobile-friendly. 
+[[Github]](https://github.com/oleg131/ishkur-web)
