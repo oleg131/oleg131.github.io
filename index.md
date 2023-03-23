@@ -3,10 +3,12 @@
 [Calendar](https://calendar.projects.oleg.kim/)
 
 Simple calendar app to track day events.
+[[Github]]([https://github.com/oleg131/ishkur-web]([https://github.com/oleg131/furthest](https://github.com/oleg131/calendar-svelte)))
 
 [Furthest](https://furthest.projects.oleg.kim/)
 
 See map of travel times from a given point to the rest of the planet.
+[[Github]]([https://github.com/oleg131/ishkur-web](https://github.com/oleg131/furthest))
 
 [RandomEpisode](https://randomepisode.projects.oleg.kim/)
 
