@@ -3,7 +3,7 @@
 [Calendar](https://calendar.projects.oleg.kim/)
 
 Simple calendar app to track day events.
-[[Github]](https://github.com/oleg131/furthest](https://github.com/oleg131/calendar-svelte)
+[[Github]](https://github.com/oleg131/calendar-svelte)
 
 [Furthest](https://furthest.projects.oleg.kim/)
 
