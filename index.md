@@ -18,3 +18,7 @@ Get a random episode from a personalized list of favorite TV shows.
 
 Ported version of the original Ishkur's Guide to Electronic Music v2.5 designed to work without Flash and be mobile-friendly. 
 [[Github]](https://github.com/oleg131/ishkur-web)
+
+[Train Journeys]([https://oleg131.github.io/ishkur-web](https://rails-delta.vercel.app/))
+
+Follow video of a train ride, with the corresponding position on the map and the station list.
