@@ -22,3 +22,12 @@ Ported version of the original Ishkur's Guide to Electronic Music v2.5 designed 
 [Train Journeys](https://rails-delta.vercel.app/)
 
 Follow video of a train ride, with the corresponding position on the map and the station list.
+
+[Expenses](https://expenses.kenxaj.cyou/)
+
+Simple app to tag your expenses and follow the breakdown.
+[[Github]](https://github.com/oleg131/budget)
+
+[Image Grid](https://imagegrid.kenxaj.cyou/)
+
+Create a customizable grid of images to post on social media.
